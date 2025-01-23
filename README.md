@@ -1,4 +1,4 @@
-# Proyectos de Análisis Estadístico con Python - SQL - Power BI 📊🐍
+# Proyectos de Análisis de Datos con Python - SQL - Power BI 📊🐍
 
 ¡Bienvenido al repositorio de proyectos de análisis estadístico con Python! Este repositorio contiene una serie de proyectos prácticos que cubren diversos aspectos del análisis estadístico utilizando el lenguaje de programación Python.
 
@@ -49,11 +49,10 @@
 ## Resultados 📈
 
 
-- Análisis Descriptivo: Exploración inicial de los datos utilizando medidas estadísticas como la media, mediana y moda.
-- Distribución de Frecuencias: Visualización de la distribución de los datos utilizando histogramas y gráficos de barras.
-- Medidas de Tendencia Central: Cálculo e interpretación de medidas como la media, mediana y moda para entender el centro de los datos.
-- Medidas de Localización: Identificación de los valores que se encuentran en diferentes posiciones dentro de un conjunto de datos, como los percentiles.
-- Medidas de Dispersión: Evaluación de la variabilidad o dispersión de los datos mediante medidas como la desviación estándar y el rango intercuartílico.
+- Este análisis permitió determinar las solicitudes que fueron resultas dentro de los plazos establecidos y cuales superaron esos tiempos de respuesta, proporcionando una base para mejorar los tiempos de respuesta.
+- La visualización de los datos permitió que los stakeholders pudieran analizar los datos de una manera interactiva y dinámica, facilitando la toma de decisiones.
+- Este proyecto demuestra el valor que tiene la analítica de datos para apoyar la toma de decisiones y la mejora continua en la entidad.
+- Errores en la parametrización de la aplicación, lo cual generaba registros con datos nulos o vacíos que afectaban el análisis. 
 
 ###
 
@@ -62,9 +61,9 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/johndussan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/johndussan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>  
 </div>
 
 ###
