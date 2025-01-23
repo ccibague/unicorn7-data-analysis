@@ -1,4 +1,24 @@
-<h3 align="left">Hey 👋 ¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket (mesa de ayuda) de una empresa. Utilicé diversas herramientas y tecnologías como Python, SQL, y Power BI para procesar, analizar y visualizar los datos, con el fin de obtener insights valiosos que puedan ayudar a mejorar los procesos internos de la entidad.</h3>
+<h1 align="left">¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket de una empresa.</h1>
+
+###
+
+<h1 align="left">Objetivo General</h1>
+
+###
+
+<p align="left">Realizar un análisis en profundidad de los datos generados por la herramienta osTicket para obtener insights valiosos que permitan mejorar la toma y la eficiencia operativa en las áreas involucradas.</p>
+
+###
+
+<h1 align="left">Objetivos Específicos</h1>
+
+###
+
+<p align="left">Realizar un análisis en profundidad de los datos generados por la herramienta osTicket para obtener insights valiosos que permitan mejorar la toma y la eficiencia operativa en las áreas involucradas.</p>
+
+###
+
+<p align="left">🎯 Extracción de datos de la base de datos de osTicket mediante consultas SQL.<br>🎯 Transformación y limpieza de los datos para garantizar su calidad y análisis adecuado.<br>🎯 Análisis de datos aplicando técnicas y algoritmos para identificar patrones y tendencias.<br>🎯 Visualización de los resultados.</p>
 
 ###
 
@@ -10,7 +30,7 @@
 
 ###
 
-<h2 align="left">Proyecto realizado en:</h2>
+<h2 align="left">Tecnologías y Software:</h2>
 
 ###
 
@@ -28,8 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://icons8.com/icon/Ny0t2MYrJ70p/power-bi-2021" height="40" alt="pbi logo"  />  
+</div>
+
+###
+
+<div align="left">
+  <a href="sasasasasasa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
