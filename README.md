@@ -22,14 +22,6 @@
 
 ###
 
-<h2 align="left">Resultados 📈</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
 <h2 align="left">Tecnologías y Software:</h2>
 
 ###
@@ -49,6 +41,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
+
+###
+
+<h2 align="left">Resultados 📈</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">Linkedin</h2>
 
 ###
 
