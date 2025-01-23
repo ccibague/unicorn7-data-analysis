@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+numpy
+tkinter
+tkcalendar
+matplotlib
+seaborn
