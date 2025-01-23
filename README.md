@@ -1,8 +1,4 @@
-Proyecto Integrador: Unic
-<h1 Proyecto Integrador: Unicorn Academy - Data Analyst Full Program 7.0 </h1>
-###
-
-<h3 align="left">Hey 👋 ¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket de la Cámara de Comercio de Ibagué. Utilicé diversas herramientas y tecnologías como Python, SQL, y Power BI para procesar, analizar y visualizar los datos, con el fin de obtener insights valiosos que puedan ayudar a mejorar los procesos internos de la entidad.</h3>
+<h3 align="left">Hey 👋 ¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket (mesa de ayuda) de una empresa. Utilicé diversas herramientas y tecnologías como Python, SQL, y Power BI para procesar, analizar y visualizar los datos, con el fin de obtener insights valiosos que puedan ayudar a mejorar los procesos internos de la entidad.</h3>
 
 ###
 
@@ -23,9 +19,15 @@ Proyecto Integrador: Unic
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
 ###
