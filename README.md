@@ -1,6 +1,6 @@
-Proyecto Unicorn 7.0 Análisis de Datos
+<h1 Proyecto Integrador: Unicorn Academy - Data Analyst Full Program 7.0 </h1>
 
-<h1 align="left">Hey 👋 ¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket de la Cámara de Comercio de Ibagué. Utilicé diversas herramientas y tecnologías como Python, SQL, y Power BI para procesar, analizar y visualizar los datos, con el fin de obtener insights valiosos que puedan ayudar a mejorar los procesos internos de la entidad.</h1>
+<h3 align="left">Hey 👋 ¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket de la Cámara de Comercio de Ibagué. Utilicé diversas herramientas y tecnologías como Python, SQL, y Power BI para procesar, analizar y visualizar los datos, con el fin de obtener insights valiosos que puedan ayudar a mejorar los procesos internos de la entidad.</h3>
 
 ###
 
