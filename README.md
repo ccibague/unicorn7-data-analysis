@@ -1,4 +1,6 @@
-<h1 align="left">¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket de una empresa.</h1>
+# Proyectos de Análisis Estadístico con Python - SQL - Power BI 📊🐍
+
+¡Bienvenido al repositorio de proyectos de análisis estadístico con Python! Este repositorio contiene una serie de proyectos prácticos que cubren diversos aspectos del análisis estadístico utilizando el lenguaje de programación Python.
 
 ###
 
@@ -44,11 +46,14 @@
 
 ###
 
-<h2 align="left">Resultados 📈</h2>
+## Resultados 📈
 
-###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- Análisis Descriptivo: Exploración inicial de los datos utilizando medidas estadísticas como la media, mediana y moda.
+- Distribución de Frecuencias: Visualización de la distribución de los datos utilizando histogramas y gráficos de barras.
+- Medidas de Tendencia Central: Cálculo e interpretación de medidas como la media, mediana y moda para entender el centro de los datos.
+- Medidas de Localización: Identificación de los valores que se encuentran en diferentes posiciones dentro de un conjunto de datos, como los percentiles.
+- Medidas de Dispersión: Evaluación de la variabilidad o dispersión de los datos mediante medidas como la desviación estándar y el rango intercuartílico.
 
 ###
 
@@ -57,7 +62,7 @@
 ###
 
 <div align="left">
-  <a href="sasasasasasa" target="_blank">
+  <a href="www.linkedin.com/in/johndussan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
