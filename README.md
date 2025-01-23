@@ -1,6 +1,6 @@
 # Proyectos de Análisis de Datos con Python - SQL - Power BI 📊🐍
 
-¡Bienvenido al repositorio de proyectos de análisis estadístico con Python! Este repositorio contiene una serie de proyectos prácticos que cubren diversos aspectos del análisis estadístico utilizando el lenguaje de programación Python.
+¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket de una empresa.
 
 ###
 
