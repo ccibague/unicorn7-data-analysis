@@ -42,12 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="logo.svg" height="40" alt="pbi logo"  />  
 </div>
 
 ###
 
 ## Resultados 📈
-
 
 - Este análisis permitió determinar las solicitudes que fueron resultas dentro de los plazos establecidos y cuales superaron esos tiempos de respuesta, proporcionando una base para mejorar los tiempos de respuesta.
 - La visualización de los datos permitió que los stakeholders pudieran analizar los datos de una manera interactiva y dinámica, facilitando la toma de decisiones.
