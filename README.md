@@ -1,4 +1,4 @@
-# Proyectos de Análisis de Datos con Python - SQL - Power BI 📊🐍
+# Proyecto de Análisis de Datos con Python - SQL - Power BI 📊🐍
 
 ¡Bienvenido a mi repositorio! Este proyecto tiene como objetivo analizar los datos generados por la herramienta osTicket de una empresa.
 
